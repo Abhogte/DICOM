@@ -1,0 +1,5 @@
+DICOM
+
+1. UnRAR DICOM_Files and add the contents to DICOM\DICOM_Files (These are kept separate 2 make small attachment).
+2. Run DICOM.java from the ROOT Folder ie. DICOM
+3. After implementing open any DICOM image from DICOM_Files and do the needful image processings.

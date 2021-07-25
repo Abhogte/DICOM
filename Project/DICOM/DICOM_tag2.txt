@@ -1,0 +1,9 @@
+0010,0010       PN      Patient's Name
+0010,0020       LO      Patient ID
+0010,0030       DA      Patient's Birth Date
+0008,0008       CS      Image Type
+0008,0020       DA      Study Date
+0008,0060       CS      Modality
+0008,0070       LO      Manufacturer
+0008,0080       LO      Institution Name
+0008,0090       PN      Referring Physician's Name
